@@ -1,0 +1,6 @@
+=== Simulación de concurrencia ===
+
+=== Simulación de paralelismo ===
+Resultados paralelos: [np.int64(333283335000), np.int64(333283335000), np.int64(333283335000), np.int64(333283335000)]
+
+=== Simulación asíncrona ===

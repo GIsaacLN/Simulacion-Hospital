@@ -1,0 +1,8 @@
+...                                                                      [100%]
+============================= slowest 5 durations ==============================
+2.02s call     tests/test_concurrency.py::test_lanzar_concurrencia_simple
+0.38s call     tests/test_async.py::test_diagnostico_asincrono_simple
+0.16s call     tests/test_parallel.py::test_diagnostico_parallel_simple
+
+(2 durations < 0.005s hidden.  Use -vv to show these durations.)
+3 passed in 2.62s
