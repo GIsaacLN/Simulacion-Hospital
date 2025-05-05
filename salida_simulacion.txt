@@ -1,6 +1,8 @@
 === Simulación de concurrencia ===
+Tiempo concurrencia: 2.54 segundos
 
 === Simulación de paralelismo ===
-Resultados paralelos: [np.int64(333283335000), np.int64(333283335000), np.int64(333283335000), np.int64(333283335000)]
+Tiempo paralelismo: 0.15 segundos
 
 === Simulación asíncrona ===
+Tiempo asincronía: 0.45 segundos
